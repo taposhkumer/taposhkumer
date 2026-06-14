@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/b1b66c95-2f64-460e-931c-fa8745042b1a" />
+<img width="1584" height="396" alt="image" src="https://avatars.githubusercontent.com/u/235938480?v=4&size=64" />
 <h1 align="center">Hi 👋,I'm Taposh Kumer Ghosh</h1>
 <h3 align="center">💻 Aspiring Software Engineer | Full-Stack AI Developer 
 🚀 Specializing in Generative AI  /h3>
@@ -9,18 +9,20 @@
 </p>
 
 ---
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+    🎓 Academic Focus: 3rd Year Computer Science & Engineering Student
 
-- 🎓 3rd Year CSE Student
-- 💻 Full Stack AI Developer specializing in MERN & Next.js
-- Specializing in Generative AI 
-- 🧠 Strong foundation in Data Structures & Algorithms
-- 🚀 Passionate about building scalable and user-friendly web applications
-- 🔐 Interested in Authentication, Backend Development & Cyber Security
-- 🎯 Goal: Become a Software Engineer and solve real-world problems
+    🧠 Core Strengths: Advanced Data Structures, Algorithms & Algorithmic Optimization
 
----
+    🤖 Architecture Focus: Full-Stack AI Engineering & Intelligent Web Ecosystems
+
+    🚀 Specialization: Agentic AI, LangChain, LangGraph & Generative AI Integration
+
+    🔐 Deep Technical Interests: Robust Backend Architectures, Identity Management & Cyber Security
+
+    🎯 Career Objective: Software Engineer dedicated to building highly scalable, real-world solutions
+    
 
 ## 🚀 Featured Projects
 
@@ -51,10 +53,13 @@
 
 ### 🤖 AI Engineering & Orchestration
 
-- **Frameworks:** LangChain, LangGraph
-- **Architectures:** Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Stateful Workflows
-- **Core Capabilities:** LLM API Integration, Prompt Engineering, Autonomous AI Agents
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2E6F40?style=for-the-badge&logo=graph&logoColor=white" />
+</p>
 
+- **🗺️ Architectures:** Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Stateful Workflows
+- **🧠 Core Capabilities:** LLM API Integration, Prompt Engineering, Autonomous AI Agents
 ### 🌐 Frontend
 
 <p>
