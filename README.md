@@ -28,8 +28,7 @@
 ### 📚 Daily-Activity-Tracker — Smart Productivity & Habit Analytics Platform
 
 🔴 **Live Demo:** [daily-activity-tracker-7bwnnke6g-taposh-s-projects.vercel.app](https://daily-activity-tracker-7bwnnke6g-taposh-s-projects.vercel.app/)  
-📂 **Client Repository:** [daily-activity-tracker-7bwnnke6g-taposh-s-projects.vercel.app](https://daily-activity-tracker-7bwnnke6g-taposh-s-projects.vercel.app/)
-
+📂 **Client Repository:** [https://github.com/taposhkumer/Daily-Activity-Tracker]
 **Tech Stack:** Next.js 15 · React 19 · Tailwind CSS · DaisyUI · Better Auth · Express.js · MongoDB · Vercel · Render
 
 - **Smart Routine Engine:** Dynamic weekly tracker with custom task categorization and automated progress calculations
