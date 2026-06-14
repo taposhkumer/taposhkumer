@@ -100,11 +100,7 @@
 </p>
 
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/taposhkumer" alt="GitHub Contribution Graph — same calendar style as your profile" />
-</p>
 
 
 ## 📫 Connect With Me
