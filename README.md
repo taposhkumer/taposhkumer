@@ -9,7 +9,7 @@
 </p>
 
 ---
-🧑‍💻 About Me
+About Me
 
     🎓 Academic Focus: 3rd Year Computer Science & Engineering Student
 
@@ -22,8 +22,6 @@
     🔐 Deep Technical Interests: Robust Backend Architectures, Identity Management & Cyber Security
 
     🎯 Career Objective: Software Engineer dedicated to building highly scalable, real-world solutions
-    
-
 ## 🚀 Featured Projects
 
 ### 📚 Daily-Activity-Tracker — Daily Activity Tracking Platform  
