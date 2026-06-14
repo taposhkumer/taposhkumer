@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Specializing in Generative AI | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+AI+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Things;Specializing+in+Generative+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+AI+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Things;Specializing+in+Generative+AI" alt="Typing animation" />
 </p>
 
 ---
@@ -28,7 +28,8 @@
 ### 📚 Daily-Activity-Tracker — Smart Productivity & Habit Analytics Platform
 
 🔴 **Live Demo:** [daily-activity-tracker-7bwnnke6g-taposh-s-projects.vercel.app](https://daily-activity-tracker-7bwnnke6g-taposh-s-projects.vercel.app/)  
-📂 **Client Repository:** [https://github.com/taposhkumer/Daily-Activity-Tracker]
+📂 **Client Repository:** [https://github.com/taposhkumer/Daily-Activity-Tracker](https://github.com/taposhkumer/Daily-Activity-Tracker)
+
 **Tech Stack:** Next.js 15 · React 19 · Tailwind CSS · DaisyUI · Better Auth · Express.js · MongoDB · Vercel · Render
 
 - **Smart Routine Engine:** Dynamic weekly tracker with custom task categorization and automated progress calculations
@@ -49,7 +50,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-2E6F40?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangGraph-2E6F40?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
 </p>
 
 - **🗺️ Architectures:** Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Stateful Workflows
@@ -80,11 +81,13 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/tkTaposh">
-    <img src="https://img.shields.io/badge/Codeforces-tkTaposh-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=tkTaposh&v2&theme=dark" alt="Codeforces — Newbie · 885 rating" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/tkTaposh/">
-    <img src="https://img.shields.io/badge/LeetCode-tkTaposh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    <img src="https://leetcard.jacoblin.cool/tkTaposh?theme=dark&ext=contest" alt="LeetCode — 29 problems solved" />
   </a>
 </p>
 
@@ -92,26 +95,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taposhkumer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=taposhkumer&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=taposhkumer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="195em" src="https://streak-stats.demolab.com?user=taposhkumer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taposhkumer&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taposhkumer&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=00F7FF&line=FFFFFF&point=FFFFFF" alt="GitHub Activity Graph" />
 </p>
 
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taposhkumer/">
+  <a href="https://www.linkedin.com/in/taposhkumer/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:gtaposh88@gmail.com">
+  &nbsp;&nbsp;
+  <a href="mailto:gtaposh88@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
@@ -121,4 +124,3 @@
 
 - **🧩 Problem Solving:** I enjoy tackling complex challenges and turning ideas into real-world applications
 - **⚡ Growth Mindset:** Consistency and continuous learning are my biggest strengths
-
