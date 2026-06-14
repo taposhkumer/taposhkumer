@@ -95,15 +95,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=taposhkumer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="195em" src="https://streak-stats.demolab.com?user=taposhkumer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=taposhkumer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://streak-stats.demolab.com?user=taposhkumer&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taposhkumer&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=00F7FF&line=FFFFFF&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/taposhkumer" alt="GitHub Contribution Graph — same calendar style as your profile" />
 </p>
 
 
