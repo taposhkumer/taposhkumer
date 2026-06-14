@@ -98,10 +98,10 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=taposhkumer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=taposhkumer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true&count_private=true &include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://streak-stats.demolab.com?user=taposhkumer&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=taposhkumer&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D &include_all_commits=true" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
