@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Taposh Kumer Ghosh — Profile Banner" src="https://github.com/user-attachments/assets/8fdecedc-2529-4c79-936a-b350837df2f6" />
+  <img width="100%" alt="Taposh Kumer Ghosh — Profile Banner" src="https://github.com/user-attachments/assets/0cdc0bf8-f1ef-4aa4-8999-e865f1109ce9" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Taposh Kumer Ghosh</h1>
